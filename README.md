@@ -8,7 +8,7 @@ The purpose of the analysis evaluate different machine learning models to determ
 
 ## RandomOverSampler Model
 
-![RO1](https://github.com/jaousley/Credit_Risk_Analysis/blob/main/Screenshots/RO1.png)
+![RO1](https://github.com/jaousley/Credit_Risk_Analysis/blob/main/Screenshots/RO1.png) =250x250
 ![RO1](https://github.com/jaousley/Credit_Risk_Analysis/blob/main/Screenshots/RO2.png)
 
 
